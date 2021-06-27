@@ -23,7 +23,7 @@ Sumario
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
-     * [Rodando a api ](#subindo-a-api)
+     * [Subindo a api ](#subindo-a-api)
    * [Como contribuir no projeto](#-como-contribuir-no-projeto)
    * [Autor](#-autor)
    * [Licença](#user-content--licença)
