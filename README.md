@@ -29,7 +29,7 @@ Docs
 
 ## 💻 Sobre o projeto
 
-♻️ Py-Weather - É uma API para coleta de dados sobre o clima de qualquer cidade do país através de Web Crawler.
+Py-Weather - É uma API para disponibilizar dados climáticos de qualquer cidade do país através de Web Crawler.
 
 ---
 
