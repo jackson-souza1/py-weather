@@ -1,4 +1,5 @@
 # py-weather
+API para disponibilizar dados climáticos de qualquer cidade do país através de Web Crawler
 
 
 
