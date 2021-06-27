@@ -17,16 +17,13 @@
 	🚧   Em desenvolvimento 🚀 🚧
 </h4>
 
-Sumario
+Docs
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
      * [Subindo a api ](#subindo-a-api)
-   * [Como contribuir no projeto](#-como-contribuir-no-projeto)
-   * [Autor](#-autor)
-   * [Licença](#user-content--licença)
 <!--te-->
 
 
@@ -72,7 +69,3 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 Feito por Jackson Souza 👋🏽 
 
 ---
-
-##  Versões do README
-
-[Português 🇧🇷](./README.md)  |  [Inglês sem emojis 🇺🇸](./README-en.md) | [Portugues sem logo  🇧🇷](./README-sem-logo.md) 
