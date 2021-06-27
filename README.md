@@ -4,6 +4,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/66448077/123535820-dcd54880-d6fc-11eb-8a62-6b92d5dabc52.png)
+![](https://user-images.githubusercontent.com/66448077/123539059-3b56f280-d70e-11eb-8b95-737ec30aadda.gif)
 
 <h1 align="center">
      :robot: <a href="#" alt=""> Py-Weather </a> :sunny: :cloud:
