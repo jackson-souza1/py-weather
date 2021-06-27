@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-   	API para coletar dados climáticos de qualquer cidade do País.
+   	API para disponibilizar dados climáticos de qualquer cidade do País através de Web Crawler.
 </h3>
 
 <h4 align="center">
